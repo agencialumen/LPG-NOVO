@@ -15,13 +15,13 @@ const giftOptions = [
     title: "Guia Básico",
     description: "Acesso ao método natural básico para fortalecer a imunidade do seu filho",
     points: 30,
-    image: "/placeholder.svg?height=100&width=100",
+    image: "https://iili.io/38dRZLG.md.jpg",
     features: ["Guia digital", "3 receitas naturais", "Checklist diário"],
   },
   {
     id: "premium",
-    title: "Kit Premium",
-    description: "Método completo + consulta personalizada para o caso do seu filho",
+    title: "Kit Premium 'FAMILIA IMUNE'",
+    description: "Método completo + Proteja toda sua família",
     points: 60,
     image: "/placeholder.svg?height=100&width=100",
     features: ["Guia digital completo", "10 receitas naturais", "Consulta online", "Suporte por 30 dias"],
@@ -29,8 +29,8 @@ const giftOptions = [
   },
   {
     id: "vip",
-    title: "Pacote VIP",
-    description: "Experiência completa com acompanhamento personalizado por 3 meses",
+    title: "Pacote VIP - DESCONTÃO",
+    description: "Leve os 3 Metodos juntos + Experiência completa com acompanhamento personalizado por 3 meses",
     points: 90,
     image: "/placeholder.svg?height=100&width=100",
     features: [

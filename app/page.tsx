@@ -69,7 +69,7 @@ export default function Home() {
                 <div className="w-full md:w-1/2">
                   <div className="relative rounded-xl overflow-hidden shadow-lg border-4 border-blue-100">
                     <Image
-                      src="/placeholder.svg?height=400&width=600"
+                      src="https://iili.io/38dnhE7.md.jpg"
                       alt="Mãe preocupada com bebê"
                       width={600}
                       height={400}
