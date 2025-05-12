@@ -344,12 +344,12 @@ export default function QuizContent() {
                   {
                     name: "Daiane, BA",
                     text: "Chorei quando vi que eu mesma tava piorando o bem-estar do meu bebê... Obrigada por me mostrar a verdade.",
-                    image: "/placeholder.svg?height=60&width=60",
+                    image: "https://iili.io/38djUtj.md.jpg",
                   },
                   {
                     name: "Camila, RJ",
                     text: "Meu filho tomava antibiótico todo mês. Agora tá correndo no quintal igual um capeta cheio de energia! Funciona mesmo.",
-                    image: "/placeholder.svg?height=60&width=60",
+                    image: "https://iili.io/38dj4MQ.jpg",
                   },
                 ].map((testimonial, i) => (
                   <motion.div
