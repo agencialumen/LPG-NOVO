@@ -23,7 +23,7 @@ const giftOptions = [
     title: "Kit Premium 'FAMILIA IMUNE'",
     description: "Método completo + Proteja toda sua família",
     points: 60,
-    image: "/placeholder.svg?height=100&width=100",
+    image: "https://iili.io/38d77te.md.jpg",
     features: ["Guia digital completo", "10 receitas naturais", "Consulta online", "Suporte por 30 dias"],
     recommended: true,
   },
@@ -32,7 +32,7 @@ const giftOptions = [
     title: "Pacote VIP - DESCONTÃO",
     description: "Leve os 3 Metodos juntos + Experiência completa com acompanhamento personalizado por 3 meses",
     points: 90,
-    image: "/placeholder.svg?height=100&width=100",
+    image: "https://iili.io/38d8hbt.jpg",
     features: [
       "Guia digital completo",
       "Todas as receitas naturais",

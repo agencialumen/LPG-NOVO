@@ -339,7 +339,7 @@ export default function QuizContent() {
                   {
                     name: "Juliana, SP",
                     text: "Eu achei que era frescura, mas esse quiz me abriu os olhos! Meu filho tá 3 MESES sem gripar!!",
-                    image: "/placeholder.svg?height=60&width=60",
+                    image: "https://iili.io/38djrox.md.jpg",
                   },
                   {
                     name: "Daiane, BA",
